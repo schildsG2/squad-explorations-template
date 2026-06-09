@@ -1,10 +1,10 @@
-# Elevate Lite Placeholder
+# Elevate Prototyping Kit Placeholder
 
-This directory will contain the Elevate Lite design system as a git submodule.
+This directory will contain the Elevate Prototyping Kit design system as a git submodule.
 
 **During setup**, the wizard will run:
 ```bash
-git submodule add https://github.com/schildsG2/elevate-lite.git shared/elevate-lite
+git submodule add https://github.com/schildsG2/elevate-prototyping-kit.git shared/elevate-prototyping-kit
 ```
 
 This provides:

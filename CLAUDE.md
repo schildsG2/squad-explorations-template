@@ -28,7 +28,7 @@
 {{DIR_NAME}}/
 ├── index.html              ← Portal to all epics
 ├── shared/                 ← Design system, components, tokens
-│   ├── elevate-lite/       ← Elevate design system (git submodule)
+│   ├── elevate-prototyping-kit/       ← Elevate design system (git submodule)
 │   └── exploration-starter.html
 ├── epics/                  ← Individual feature explorations
 │   └── example-epic/       ← Replace with your actual epics
@@ -44,10 +44,10 @@
 
 ### Primary Resources:
 
-1. **Specifications**: `./shared/elevate-lite/design-system/DESIGN.md`
+1. **Specifications**: `./shared/elevate-prototyping-kit/design-system/DESIGN.md`
 2. **Visual Reference**: [Elevate Lookbook](https://www.g2.test/elevate/lookbook)
-3. **HTML Templates**: `./shared/elevate-lite/components/templates/`
-4. **Design Tokens**: `./shared/elevate-lite/tokens/elevate.css`
+3. **HTML Templates**: `./shared/elevate-prototyping-kit/components/templates/`
+4. **Design Tokens**: `./shared/elevate-prototyping-kit/tokens/elevate.css`
 
 ### Workflow:
 1. Read DESIGN.md section for component
@@ -101,7 +101,7 @@ Follow Elevate design system principles:
 
 ## Questions?
 
-- **Design system**: Check `./shared/elevate-lite/design-system/DESIGN.md`
+- **Design system**: Check `./shared/elevate-prototyping-kit/design-system/DESIGN.md`
 - **Components**: Browse Elevate Lookbook
 - **Project structure**: This file
 
