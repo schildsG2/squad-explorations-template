@@ -1,0 +1,75 @@
+epics/example-epic/index.html
+  s_715389bdcacb9c::t_b4a32b795ce226 7-9
+.claude/setup-squad-explorations.skill
+  s_715389bdcacb9c::t_ab57428fb6d46b 547
+  s_715389bdcacb9c::t_ce5348d724d366 594-595
+  s_715389bdcacb9c::t_8c75437b44d0ac 272-274
+  s_715389bdcacb9c::t_9aa51eef41659c 80
+  s_715389bdcacb9c::t_0bd110d45b90bc 139,142,145
+  s_715389bdcacb9c::t_5a0f93e3d548cd 518
+  s_715389bdcacb9c::t_c45c16268fd4fb 2
+  s_715389bdcacb9c::t_1618613d2d39c5 111
+  s_715389bdcacb9c::t_e2cae11582c110 290
+  s_715389bdcacb9c::t_402d09b1058163 351
+  s_715389bdcacb9c::t_a1f09243f01a17 367,369-370
+  s_715389bdcacb9c::t_5571472baf8aec 169-171
+  s_715389bdcacb9c::t_300b8315f2b64e 207,209-210
+  s_715389bdcacb9c::t_f7bdc090e52708 23
+  s_715389bdcacb9c::t_4c6f9284cc8fe9 424
+  s_715389bdcacb9c::t_fc597e65099556 9
+  s_715389bdcacb9c::t_f0f2805fcd02aa 576
+  s_715389bdcacb9c::t_f97b08914c5944 487
+docs/SETUP_GUIDE.md
+  s_715389bdcacb9c::t_9a997e837709a0 181,183
+  s_715389bdcacb9c::t_b8c0ce3338d82d 146
+  s_715389bdcacb9c::t_70c0dfc1db7a91 201
+  s_715389bdcacb9c::t_05d7490102c931 246
+  s_715389bdcacb9c::t_b6f6b720aa6ef3 260
+  s_715389bdcacb9c::t_c3bc86d73a9e11 36
+  s_715389bdcacb9c::t_6e82f9474efa53 110
+  s_715389bdcacb9c::t_0c01555f3c531a 203,206
+index.html
+  s_715389bdcacb9c::t_60b015f280e082 148-149
+  s_715389bdcacb9c::t_252e49d9b6495c 7-9
+.claude/new-epic.skill
+  s_715389bdcacb9c::t_656bd83e21e46d 66-68
+CLAUDE.md
+  s_715389bdcacb9c::t_2c48a69c3da8be 104
+  s_715389bdcacb9c::t_a531890777a283 31
+  s_715389bdcacb9c::t_c4448275ce4368 47,49-50
+.claude/new-exploration.skill
+  s_715389bdcacb9c::t_8c7689d1a9535c 94-96
+docs/SETUP_PROMPT.md
+  s_715389bdcacb9c::t_a27f6423652921 240
+  s_715389bdcacb9c::t_0eb0c87477fac7 212-214
+  s_715389bdcacb9c::t_065b492eb3993c 154,159,164
+  s_715389bdcacb9c::t_e0110dc17c1c6f 28
+  s_715389bdcacb9c::t_778d41cb7511e5 174
+  s_715389bdcacb9c::t_10f15542067cad 231
+  s_715389bdcacb9c::t_27a779a6290489 96
+  s_715389bdcacb9c::t_1b2b2f9d6dd18c 219
+  s_715389bdcacb9c::t_84570389488303 339
+shared/exploration-starter.html
+  s_715389bdcacb9c::t_bbfde42d0e026d 24
+  s_715389bdcacb9c::t_a61ad519192773 9-11
+shared/elevate-prototyping-kit-PLACEHOLDER.md
+  s_715389bdcacb9c::t_4efbe967005d77 1-7
+epics/example-epic/explorations/01-example.html
+  s_715389bdcacb9c::t_eea6e50adedb4e 9-11
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "3f78bb5253bf6884846054a81675359cdcf95e7d",
+  "prompts": {},
+  "sessions": {
+    "s_715389bdcacb9c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ses_152534fc0ffe3iTSsTW8a7MvMo",
+        "model": "unknown"
+      },
+      "human_author": "Sam Childs <schilds@g2.com>"
+    }
+  }
+}
