@@ -110,6 +110,7 @@ your-squad-explorations/
 │   ├── elevate-prototyping-kit/          # Design system (git submodule)
 │   │   ├── tokens/elevate.css
 │   │   ├── components/
+│   │   ├── utilities.css
 │   │   └── design-system/DESIGN.md
 │   └── exploration-starter.html
 ├── research/spikes/           # Research & competitive analysis
@@ -146,6 +147,7 @@ All skills auto-detect the repository root using git. Works from anywhere in you
 Includes Elevate Prototyping Kit as a git submodule:
 - Design tokens (CSS variables)
 - Component templates
+- Utility classes
 - Complete DESIGN.md specifications
 - Icon library
 

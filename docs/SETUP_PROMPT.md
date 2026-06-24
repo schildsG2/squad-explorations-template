@@ -159,6 +159,14 @@ If git initialized:
 git submodule add https://github.com/schildsG2/elevate-prototyping-kit.git shared/elevate-prototyping-kit
 ```
 
+When you reference the kit in HTML, use all 4 CSS files in this order:
+```html
+<link rel="stylesheet" href="../../shared/elevate-prototyping-kit/tokens/elevate.css">
+<link rel="stylesheet" href="../../shared/elevate-prototyping-kit/components/elevate.css">
+<link rel="stylesheet" href="../../shared/elevate-prototyping-kit/utilities.css">
+<link rel="stylesheet" href="../../shared/elevate-prototyping-kit/icons/icons.css">
+```
+
 If no git:
 ```bash
 git clone https://github.com/schildsG2/elevate-prototyping-kit.git shared/elevate-prototyping-kit
@@ -212,6 +220,7 @@ Show me:
 - Explorations reference: `../../shared/elevate-prototyping-kit/...`
 - Epic index references: `../../shared/elevate-prototyping-kit/...`
 - Main index references: `./shared/elevate-prototyping-kit/...`
+- Always include `utilities.css` between `components/elevate.css` and `icons/icons.css`
 
 **Error handling:**
 - If path already exists, ask before overwriting
