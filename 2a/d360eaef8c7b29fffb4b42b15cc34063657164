@@ -1,0 +1,25 @@
+.claude/setup-squad-explorations.skill
+  s_d4b8cdf356b829::t_f8640867185b91 83,466,603
+README.md
+  s_d4b8cdf356b829::t_f8640867185b91 31,47-48,84
+docs/SETUP_GUIDE.md
+  s_d4b8cdf356b829::t_f8640867185b91 232
+docs/SETUP_PROMPT.md
+  s_d4b8cdf356b829::t_f8640867185b91 150,322
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "2ad360eaef8c7b29fffb4b42b15cc34063657164",
+  "prompts": {},
+  "sessions": {
+    "s_d4b8cdf356b829": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_105efa5f6ffeWQZ4dl5UzzTvlK",
+        "model": "gpt-5.4-mini"
+      },
+      "human_author": "Sam Childs <schilds@g2.com>"
+    }
+  }
+}
