@@ -1,0 +1,31 @@
+.claude/setup-squad-explorations.skill
+  s_709c70ba30abe3::t_7d0cef75a5d906 169-172
+index.html
+  s_709c70ba30abe3::t_7d0cef75a5d906 9
+.claude/new-exploration.skill
+  s_709c70ba30abe3::t_7d0cef75a5d906 96,100
+epics/example-epic/explorations/01-example.html
+  s_709c70ba30abe3::t_7d0cef75a5d906 11
+shared/exploration-starter.html
+  s_709c70ba30abe3::t_7d0cef75a5d906 11
+epics/example-epic/index.html
+  s_709c70ba30abe3::t_7d0cef75a5d906 9
+.claude/new-epic.skill
+  s_709c70ba30abe3::t_7d0cef75a5d906 66-69
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "4ccc4dd4ad0390ab7be63bf0f7c4c073066744de",
+  "prompts": {},
+  "sessions": {
+    "s_709c70ba30abe3": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_105e0f02bffeIV2FW9dZo8igGH",
+        "model": "gpt-5.4-mini"
+      },
+      "human_author": "Sam Childs <schilds@g2.com>"
+    }
+  }
+}
