@@ -1,0 +1,21 @@
+docs/SETUP_GUIDE.md
+  s_033a97ea08ddb1::t_ee2785395d24a0 113,150
+docs/SETUP_PROMPT.md
+  s_033a97ea08ddb1::t_ee2785395d24a0 162-169,223
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "5b8843ce8276c7d60bccb82b79d26a66262a7231",
+  "prompts": {},
+  "sessions": {
+    "s_033a97ea08ddb1": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_105189aecffeu33PeYF6pAO8lG",
+        "model": "gpt-5.4-mini"
+      },
+      "human_author": "Sam Childs <schilds@g2.com>"
+    }
+  }
+}
