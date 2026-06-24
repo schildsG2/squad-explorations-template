@@ -229,7 +229,7 @@ cd your-squad-explorations
 /new-exploration {epic-name}
 ```
 
-**Note:** `--recurse-submodules` ensures Elevate Lite is cloned too.
+**Note:** `--recurse-submodules` ensures Elevate Prototyping Kit is cloned too.
 
 ---
 

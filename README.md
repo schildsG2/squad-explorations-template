@@ -28,7 +28,7 @@ The wizard will:
 1. Clone this template
 2. Ask for your squad name and themes
 3. Personalize all files
-4. Add Elevate Lite as a submodule
+4. Add Elevate Prototyping Kit as a submodule
 5. Create placeholder epics for your themes
 
 ### Option 2: Manual Setup
@@ -44,8 +44,8 @@ rm -rf .git
 # Initialize as new repo
 git init
 
-# Add Elevate Lite
-git submodule add https://github.com/schildsG2/elevate-lite.git shared/elevate-lite
+# Add Elevate Prototyping Kit
+git submodule add https://github.com/schildsG2/elevate-prototyping-kit.git shared/elevate-prototyping-kit
 
 # Find and replace placeholders:
 # {{SQUAD_NAME}} → Your Squad Name
@@ -81,7 +81,7 @@ squad-explorations-template/
 │       └── explorations/
 │           └── 01-example.html     # Example exploration
 ├── shared/
-│   ├── elevate-lite/               # Added as submodule during setup
+│   ├── elevate-prototyping-kit/    # Added as submodule during setup
 │   └── exploration-starter.html    # Template for new explorations
 ├── research/spikes/                # Research directory
 └── .claude/                        # Skills

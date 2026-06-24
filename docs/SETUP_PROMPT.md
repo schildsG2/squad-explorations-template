@@ -147,7 +147,7 @@ cp -r epics/{theme-1-kebab} epics/{theme-3-kebab}
 - Duplicate epic card for each theme (with appropriate icons/colors)
 - Update epic count from `(1)` to `({N})`
 
-### Step 6: Add Elevate Lite design system
+### Step 6: Add Elevate Prototyping Kit design system
 
 Remove placeholder:
 ```bash
@@ -319,7 +319,7 @@ Claude: [creates everything]
 ## Troubleshooting
 
 **If git submodule fails:**
-Claude will offer to clone Elevate Lite directly instead.
+Claude will offer to clone Elevate Prototyping Kit directly instead.
 
 **If the path already exists:**
 Claude will ask if you want to choose a different location or overwrite.

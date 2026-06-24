@@ -80,7 +80,7 @@ Ask the user for the following information **one question at a time** (don't ove
 **Explanation (if unclear):** "Git will let you track changes and add Elevate Prototyping Kit as a submodule. Recommended: yes"
 
 **If yes:** Set `INIT_GIT = true`
-**If no:** Set `INIT_GIT = false` (will clone Elevate Lite directly instead of submodule)
+**If no:** Set `INIT_GIT = false` (will clone Elevate Prototyping Kit directly instead of submodule)
 
 **Store as:** `INIT_GIT` (boolean)
 
@@ -463,7 +463,7 @@ git add .
 git commit -m "Initial setup: {SQUAD_NAME} explorations workspace
 
 - Created {N} placeholder epics: {LIST_EPICS}
-- Added Elevate Lite design system as submodule
+- Added Elevate Prototyping Kit design system as submodule
 - Installed /new-epic and /new-exploration skills
 - Set up research directory structure
 
@@ -600,7 +600,7 @@ Before reporting completion, verify:
 
 **No git available:**
 - Skip git steps
-- Warn that Elevate Lite submodule won't work (offer direct clone)
+- Warn that Elevate Prototyping Kit submodule won't work (offer direct clone)
 
 **User wants more than 3 epics:**
 - Allow it, no hard limit
